@@ -1,0 +1,20 @@
+{
+  "name": "atcoder-user-competition-history-api",
+  "version": "1.0.0",
+  "description": "AtCoderのあるアカウントのコンテスト成績表を取得するWeb API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3w36zj6/atcoder-user-competition-history-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3w36zj6/atcoder-user-competition-history-api/issues"
+  },
+  "homepage": "https://github.com/3w36zj6/atcoder-user-competition-history-api#readme"
+}

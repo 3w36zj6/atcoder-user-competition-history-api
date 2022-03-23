@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/3w36zj6/atcoder-user-competition-history-api/issues"
   },
-  "homepage": "https://github.com/3w36zj6/atcoder-user-competition-history-api#readme"
+  "homepage": "https://github.com/3w36zj6/atcoder-user-competition-history-api#readme",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.45"
+  }
 }

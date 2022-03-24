@@ -20,4 +20,5 @@ AtCoderのあるアカウントのコンテスト成績表を取得するWeb API
 
 ```
 clasp push
+clasp deploy -i <Deploy ID>
 ```

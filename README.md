@@ -5,7 +5,7 @@ AtCoderのあるアカウントのコンテスト成績表を取得するWeb API
 - npm
 - clasp
 
-## Usage
+## Deploy
 `.clasp.json`を作成する。
 
 ```
@@ -16,7 +16,7 @@ AtCoderのあるアカウントのコンテスト成績表を取得するWeb API
 
 ```
 
-## Deploy
+以下のコマンドでdeployされる。
 
 ```
 clasp push
